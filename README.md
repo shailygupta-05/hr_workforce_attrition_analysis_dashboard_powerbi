@@ -132,7 +132,7 @@ This page helps management quickly understand the overall HR health of the organ
 ---
 
 ###  Demographics & Reasons Analysis
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/8aa3a8c1cb5955632c17c060974f06a6d94789d6/images/Demographics%20and%20Reasons%20Analysis.png)
 This dashboard analyzes:
 
 - Gender distribution  
