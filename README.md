@@ -147,7 +147,7 @@ It helps HR teams understand who is leaving and why they are leaving.
 ---
 
 ###  Employee Details Dashboard
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/7233702a9997bf4a1cf6a0e7fa910f5424aff844/images/Employee%20Details.png)
 This page provides:
 
 - Individual employee-level information  
