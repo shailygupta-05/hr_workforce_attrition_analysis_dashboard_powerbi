@@ -112,7 +112,7 @@ No major data transformation was required as the dataset was already cleaned and
 ##  Dashboard
 
 ###  Executive Overview Dashboard
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/92b4fb133cb265202b7a7148c264b74a081087aa/images/Executive%20Overview.png)
 This dashboard provides a high-level overview of workforce and attrition performance including:
 
 - Total Employees: 311  
