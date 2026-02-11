@@ -113,7 +113,7 @@ This page helps leadership quickly assess organizational workforce health.
 
 ---
 ## 🔍 DEMOGRAPHICS & REASONS ANALYSIS
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/30c5f35516a48e70ec0e08fb7e03332b28e64e94/images/Demographics%20and%20Reasons%20Analysis.png)
 This dashboard analyzes:
 - Gender and marital status distribution  
 - Recruitment source performance  
