@@ -141,41 +141,12 @@ Acts as an analytical lookup page for deeper HR review.
 
 #  BUSINESS INSIGHTS & KEY FINDINGS
 
-##  WORKFORCE OVERVIEW
- A 33% attrition rate indicates a serious turnover issue requiring immediate HR focus.
-
-## ATTRITION BY DEPARTMENT
- Production Department and Software Engineering – 
- These departments show the highest risk and need targeted retention strategies.
-
-## RECRUITMENT SOURCE IMPACT
-
-Terminated employees by source:
-Google Search and Indeed generate the highest exits, suggesting possible hiring quality issues.
-
-## PERFORMANCE VS ATTRITION
-
-- Majority of employees who left were rated “Fully Meets Expectations”  
-- Very few exits from “Exceeds Expectations”
-
- Attrition is not mainly performance-driven; workplace satisfaction and compensation are bigger factors.
-
-## DEMOGRAPHIC INSIGHTS
-
-- Workforce is 56.59% female and 43.41% male, showing a balanced gender mix  
-- Majority employees are Single (44%) and Married (40%), indicating a relatively young workforce  
-- Racial composition is mainly White (60%), followed by Black/African American (25%) and Asian (9%)
-
- Overall, demographic factors do not strongly drive attrition; exits are more related to job satisfaction, growth opportunities, and workplace conditions.
-
-## TERMINATION REASONS
-Major reasons for leaving:
-- Unhappiness  
-- Career Change  
-- More Money  
-- Work Hours  
-
- Most exits relate to compensation, work-life balance, and career growth concerns.
+- Overall Attrition Rate: 33%  
+- Highest attrition observed in Production (40%) and Software Engineering (36%)  
+- Google Search and Indeed recruitment sources showed the highest employee exits  
+- Attrition was not strongly performance-driven; most exits were from “Fully Meets Expectations” category  
+- Major reasons for leaving included unhappiness, career change, compensation, and work hours 
+-Overall, demographic factors do not strongly drive attrition; exits are more related to job satisfaction, growth opportunities, and workplace conditions
 
 ---
 #  BUSINESS RECOMMENDATIONS
