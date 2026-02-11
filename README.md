@@ -151,31 +151,14 @@ Acts as an analytical lookup page for deeper HR review.
 ---
 #  BUSINESS RECOMMENDATIONS
 
-## 1. Focus on High-Attrition Departments
-
 - Implement retention plans in Production and Software Engineering  
 - Conduct department-level engagement surveys  
-- Strengthen leadership and employee support programs  
-
-## 2. Improve Recruitment Quality
-
 - Reevaluate hiring effectiveness from Google Search and Indeed  
 - Strengthen screening and interview processes  
 - Track long-term performance of new hires  
-
-## 3. Enhance Employee Engagement
-
-- Introduce career development and training programs  
-- Improve recognition and reward systems  
-- Provide clear internal growth paths  
-
-## 4. Review Compensation & Work Policies
-
-- Analyze salary competitiveness  
 - Improve work-life balance  
 - Address concerns related to work hours and workload  
 
----
 
 #  HOW TO RUN THIS PROJECT
 
@@ -202,9 +185,9 @@ The dashboards provide actionable insights to help organizations reduce attritio
 
 #  AUTHOR & CONTACT
 
-**Name:** Shaily Gupta  
-**Email:** shailygupta2529@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/shailygupta05/
+Name: Shaily Gupta  
+Email: shailygupta2529@gmail.com  
+LinkedIn: https://www.linkedin.com/in/shailygupta05/
 
 ---
 
