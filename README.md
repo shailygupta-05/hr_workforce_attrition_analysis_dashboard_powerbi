@@ -96,7 +96,7 @@ No major data transformation was required.
 
 ---
 ##  EXECUTIVE OVERVIEW DASHBOARD
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/e8a406c740ab71bdfd9ea5cb6a16ed178d5c7e69/images/Executive%20Overview.png)
 High-level HR performance view:
 - Total Employees: 311  
 - Active Employees: 207 
@@ -140,24 +140,19 @@ Acts as an analytical lookup page for deeper HR review.
 ---
 
 #  BUSINESS INSIGHTS & KEY FINDINGS
----
+
 ##  WORKFORCE OVERVIEW
  A 33% attrition rate indicates a serious turnover issue requiring immediate HR focus.
 
----
 ## ATTRITION BY DEPARTMENT
  Production Department and Software Engineering – 
- 
  These departments show the highest risk and need targeted retention strategies.
 
----
 ## RECRUITMENT SOURCE IMPACT
 
 Terminated employees by source:
+Google Search and Indeed generate the highest exits, suggesting possible hiring quality issues.
 
- Google Search and Indeed generate the highest exits, suggesting possible hiring quality issues.
-
----
 ## PERFORMANCE VS ATTRITION
 
 - Majority of employees who left were rated “Fully Meets Expectations”  
@@ -165,7 +160,6 @@ Terminated employees by source:
 
  Attrition is not mainly performance-driven; workplace satisfaction and compensation are bigger factors.
 
----
 ## DEMOGRAPHIC INSIGHTS
 
 - Workforce is 56.59% female and 43.41% male, showing a balanced gender mix  
@@ -174,7 +168,6 @@ Terminated employees by source:
 
  Overall, demographic factors do not strongly drive attrition; exits are more related to job satisfaction, growth opportunities, and workplace conditions.
 
----
 ## TERMINATION REASONS
 Major reasons for leaving:
 - Unhappiness  
@@ -187,28 +180,24 @@ Major reasons for leaving:
 ---
 #  BUSINESS RECOMMENDATIONS
 
----
 ## 1. Focus on High-Attrition Departments
 
 - Implement retention plans in Production and Software Engineering  
 - Conduct department-level engagement surveys  
 - Strengthen leadership and employee support programs  
 
----
 ## 2. Improve Recruitment Quality
 
 - Reevaluate hiring effectiveness from Google Search and Indeed  
 - Strengthen screening and interview processes  
 - Track long-term performance of new hires  
 
----
 ## 3. Enhance Employee Engagement
 
 - Introduce career development and training programs  
 - Improve recognition and reward systems  
 - Provide clear internal growth paths  
 
----
 ## 4. Review Compensation & Work Policies
 
 - Analyze salary competitiveness  
