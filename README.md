@@ -1,11 +1,12 @@
-#  HR Workforce & Attrition Analysis Dashboard | Power BI Project
+#  HR WORKFORCE & ATTRITION ANALYSIS DASHBOARD | POWER BI PROJECT
+---
 
-##  Objective
+#  OBJECTIVE
+
 To analyze employee workforce trends, attrition behavior, and demographic insights using an interactive Power BI dashboard and provide actionable HR business intelligence for better workforce management.
 
 ---
-
-## 📌 Table of Contents
+# 📌 TABLE OF CONTENTS
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -13,9 +14,6 @@ To analyze employee workforce trends, attrition behavior, and demographic insigh
 - [Tools & Technologies](#tools--technologies)
 - [Methods & Steps Performed](#methods--steps-performed)
 - [Dashboard](#dashboard)
-  - [Executive Overview Dashboard](#executive-overview-dashboard)
-  - [Demographics & Reasons Analysis](#demographics--reasons-analysis)
-  - [Employee Details Dashboard](#employee-details-dashboard)
 - [Business Insights & Key Findings](#business-insights--key-findings)
 - [Business Recommendations](#business-recommendations)
 - [How to Run This Project](#how-to-run-this-project)
@@ -24,53 +22,42 @@ To analyze employee workforce trends, attrition behavior, and demographic insigh
 
 ---
 
-##  Project Overview
+#  PROJECT OVERVIEW
 
-This project focuses on analyzing an HR employee dataset using Microsoft Power BI.  
-The main goal was to transform HR raw data into meaningful insights related to:
-
-- Workforce distribution  
-- Employee attrition  
-- Recruitment effectiveness  
-- Performance and termination trends  
-
+This project analyzes an HR employee dataset using Microsoft Power BI to convert workforce data into meaningful business insights.
+ 
 Three interactive dashboards were created:
 
-- Executive Overview Dashboard  
-- Demographics & Reasons Analysis Dashboard  
-- Employee Details Dashboard  
+- **Executive Overview Dashboard**  
+- **Demographics & Reasons Analysis Dashboard**  
+- **Employee Details Dashboard**  
 
-These dashboards help HR professionals monitor employee behavior, identify high-risk areas, and take data-driven HR decisions.
+These dashboards help HR professionals monitor workforce health and take data-driven HR decisions.
 
 ---
 
-##  Problem Statement
+#  PROBLEM STATEMENT
 
 Organizations often struggle to understand:
-
 - Why employees are leaving  
 - Which departments face high attrition  
-- Which recruitment sources are effective  
-- Whether performance impacts attrition  
-- How demographic factors affect workforce stability  
+- Which recruitment channels are effective  
+- Whether performance affects attrition  
+- How demographic factors influence workforce stability  
 
-Without proper analysis, HR teams cannot take proactive actions to improve retention.
-
-This project aims to solve these problems by building structured and interactive Power BI dashboards to support strategic HR decision-making.
+This project aims to solve these challenges by building structured Power BI dashboards to support strategic HR decision-making.
 
 ---
-
-## Dataset
+#  DATASET
 
 **Dataset Used:** HR Employee Dataset  
 **Domain:** Human Resources / HR Analytics  
-**Data Type:** Employee Workforce Data  
+**Data Type:** Workforce and Employee Records  
 
 The dataset includes:
-
 - Employee demographics  
 - Department and position details  
-- Hiring and termination records  
+- Hiring and termination data  
 - Recruitment sources  
 - Performance scores  
 - Employment status  
@@ -78,197 +65,182 @@ The dataset includes:
 The dataset was already clean and properly structured.
 
 ---
-
-##  Tools & Technologies
+#  TOOLS & TECHNOLOGIES
 
 - Microsoft Power BI Desktop  
 - DAX (Data Analysis Expressions)  
 - Interactive Visualizations  
 - Slicers and Filters  
-- Power BI Service for publishing  
+- Power BI Service  
 
 ---
+#  METHODS & STEPS PERFORMED
 
-##  Methods & Steps Performed
-
-The following steps were performed to build this project:
-
+Project workflow:
 1. Imported HR dataset into Power BI  
-2. Verified and ensured that the dataset was already clean and properly structured  
-3. Created necessary DAX measures for KPIs such as:
+2. Verified dataset quality  
+3. Created DAX measures such as:
    - Total Employees  
    - Active Employees  
    - Terminated Employees  
    - Attrition Rate  
 4. Designed three interactive dashboards  
 5. Added slicers for dynamic filtering  
-6. Implemented page navigation between dashboards  
-7. Published the dashboard to Power BI Service  
+6. Implemented page navigation  
+7. Published dashboard to Power BI Service  
 
-No major data transformation was required as the dataset was already cleaned and well formatted.
+No major data transformation was required.
 
 ---
+#  DASHBOARD
 
-##  Dashboard
+---
+##  EXECUTIVE OVERVIEW DASHBOARD
 
-###  Executive Overview Dashboard
-![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/92b4fb133cb265202b7a7148c264b74a081087aa/images/Executive%20Overview.png)
-This dashboard provides a high-level overview of workforce and attrition performance including:
-
+High-level HR performance view:
 - Total Employees: 311  
-- Active Employees: 207  
+- Active Employees: 207 
 - Terminated Employees: 104  
-- Overall Attrition Rate: 33%  
+- Overall Attrition Rate: 33%
 
-Additional visuals include:
-
-- Attrition Rate by Department  
-- Department-wise Attrition Distribution  
-- Terminated Employees by Recruitment Source  
+Key visuals include:
+- Attrition by Department  
+- Recruitment Source Analysis  
 - Performance Score vs Attrition  
+- Department-wise Attrition Trends  
 
-This page helps management quickly understand the overall HR health of the organization.
+This page helps leadership quickly assess organizational workforce health.
 
 ---
+## 🔍 DEMOGRAPHICS & REASONS ANALYSIS
 
-###  Demographics & Reasons Analysis
-![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/8aa3a8c1cb5955632c17c060974f06a6d94789d6/images/Demographics%20and%20Reasons%20Analysis.png)
 This dashboard analyzes:
-
-- Gender distribution  
-- Marital status distribution  
-- Race composition  
+- Gender and marital status distribution  
 - Recruitment source performance  
 - Termination reasons  
 - Employment status breakdown  
 
-It helps HR teams understand who is leaving and why they are leaving.
+It helps HR teams understand **who is leaving and why**.
 
 ---
+##  EMPLOYEE DETAILS DASHBOARD
 
-###  Employee Details Dashboard
-![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/7233702a9997bf4a1cf6a0e7fa910f5424aff844/images/Employee%20Details.png)
-This page provides:
-
-- Individual employee-level information  
+Provides drill-down analysis with:
+- Employee-level information  
 - Filters by department and employee name  
-- Detailed attributes such as:
+- Details such as:
   - Position  
   - Salary  
   - Manager  
   - Date of Hire  
   - Performance Score  
 
-This acts as a drill-down page for deeper HR analysis.
+Acts as an analytical lookup page for deeper HR review.
 
 ---
 
-##  Business Insights & Key Findings
-
-### Workforce Overview
-
-- Total workforce consists of 311 employees  
-- Out of them 104 employees have left  
-- Overall attrition rate is 33%  
-- 207 employees remain active  
-
-This indicates a significant turnover issue that requires HR attention.
+#  BUSINESS INSIGHTS & KEY FINDINGS
+---
+##  WORKFORCE OVERVIEW
+ A 33% attrition rate indicates a serious turnover issue requiring immediate HR focus.
 
 ---
-
-### Attrition by Department
-
-- Production department has the highest attrition rate – 40%  
-- Software Engineering follows with 36% attrition  
-
-Production and Software Engineering teams need immediate retention focus.
+## ATTRITION BY DEPARTMENT
+ Production Department and Software Engineering – 
+ 
+ These departments show the highest risk and need targeted retention strategies.
 
 ---
+## RECRUITMENT SOURCE IMPACT
 
-### Recruitment Source Impact
+Terminated employees by source:
 
-Terminated employees by recruitment source:
-
-- Google Search – 30 employees  
-- Indeed – 21 employees  
-
-Google Search and Indeed contribute to the highest number of exits, indicating possible hiring quality issues.
+ Google Search and Indeed generate the highest exits, suggesting possible hiring quality issues.
 
 ---
+## PERFORMANCE VS ATTRITION
 
-### Performance vs Attrition
+- Majority of employees who left were rated “Fully Meets Expectations”  
+- Very few exits from “Exceeds Expectations”
 
-- Majority of employees who left were in the “Fully Meets Expectations” category  
-- Very few left from the “Exceeds Expectations” category  
-
-Attrition is not purely performance-driven; other factors such as job satisfaction and compensation may be influencing exits.
-
----
-
-### Demographic Insights
-
-- Female Employees: 56.59%  
-- Male Employees: 43.41%  
-
-Marital Status:
-
-- Single: 44%  
-- Married: 40%  
-
-Race Composition:
-
-- White: 60%  
-- Black/African American: 25%  
-- Asian: 9%  
+ Attrition is not mainly performance-driven; workplace satisfaction and compensation are bigger factors.
 
 ---
+## DEMOGRAPHIC INSIGHTS
 
-### Termination Reasons
+- Workforce is 56.59% female and 43.41% male, showing a balanced gender mix  
+- Majority employees are Single (44%) and Married (40%), indicating a relatively young workforce  
+- Racial composition is mainly White (60%), followed by Black/African American (25%) and Asian (9%)
 
+ Overall, demographic factors do not strongly drive attrition; exits are more related to job satisfaction, growth opportunities, and workplace conditions.
+
+---
+## TERMINATION REASONS
 Major reasons for leaving:
-
 - Unhappiness  
 - Career Change  
 - More Money  
 - Work Hours  
 
-Most reasons relate to job satisfaction and compensation.
+ Most exits relate to compensation, work-life balance, and career growth concerns.
+
+---
+#  BUSINESS RECOMMENDATIONS
+
+---
+## 1. Focus on High-Attrition Departments
+
+- Implement retention plans in Production and Software Engineering  
+- Conduct department-level engagement surveys  
+- Strengthen leadership and employee support programs  
+
+---
+## 2. Improve Recruitment Quality
+
+- Reevaluate hiring effectiveness from Google Search and Indeed  
+- Strengthen screening and interview processes  
+- Track long-term performance of new hires  
+
+---
+## 3. Enhance Employee Engagement
+
+- Introduce career development and training programs  
+- Improve recognition and reward systems  
+- Provide clear internal growth paths  
+
+---
+## 4. Review Compensation & Work Policies
+
+- Analyze salary competitiveness  
+- Improve work-life balance  
+- Address concerns related to work hours and workload  
 
 ---
 
-##  Business Recommendations
+#  HOW TO RUN THIS PROJECT
 
-1. Focus on Production and Software Engineering departments with targeted retention strategies  
-2. Improve hiring quality from Google Search and Indeed recruitment channels  
-3. Introduce employee engagement and career growth programs  
-4. Review compensation and work-life balance policies  
-
----
-
-##  How to Run This Project
-
-- Download the Power BI (.pbix) file from this repository  
+- Download the Power BI (.pbix) file  
 - Open it in Power BI Desktop  
 - Use slicers to interact with dashboards  
-- Navigate between pages using built-in buttons  
+- Navigate between pages using buttons  
 - Optionally view the published version on Power BI Service  
 
 ---
 
-##  Result & Conclusion
+#  RESULT & CONCLUSION
 
-This project successfully transformed raw HR data into meaningful dashboards that help to:
+This project successfully transformed HR data into structured dashboards that help to:
 
 - Understand workforce trends  
 - Identify problem departments  
 - Analyze recruitment effectiveness  
-- Support HR decision-making  
+- Support strategic HR planning  
 
-The dashboards provide actionable insights that can help organizations reduce attrition and improve employee satisfaction.
+The dashboards provide actionable insights to help organizations reduce attrition and improve employee satisfaction.
 
 ---
 
-##  Author & Contact
+#  AUTHOR & CONTACT
 
 **Name:** Shaily Gupta  
 **Email:** shailygupta2529@gmail.com  
@@ -276,4 +248,4 @@ The dashboards provide actionable insights that can help organizations reduce at
 
 ---
 
-###  Thank You for Visiting This Project!
+###  THANK YOU FOR VISITING THIS PROJECT!
