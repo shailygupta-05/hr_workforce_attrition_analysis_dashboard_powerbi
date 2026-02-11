@@ -124,7 +124,7 @@ It helps HR teams understand **who is leaving and why**.
 
 ---
 ##  EMPLOYEE DETAILS DASHBOARD
-
+![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/5e6acee8f93f11430e0352b1d065d88701a99317/images/Employee%20Details.png)
 Provides drill-down analysis with:
 - Employee-level information  
 - Filters by department and employee name  
