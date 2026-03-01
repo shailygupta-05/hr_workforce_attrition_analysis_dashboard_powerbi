@@ -1,33 +1,25 @@
-#  HR WORKFORCE & ATTRITION ANALYSIS DASHBOARD | POWER BI PROJECT
+##  HR WORKFORCE & ATTRITION ANALYSIS DASHBOARD | POWER BI 
+
 ---
-
-#  OBJECTIVE
-
+###  OBJECTIVE
 To analyze employee workforce trends, attrition behavior, and demographic insights using an interactive Power BI dashboard and provide actionable HR business intelligence for better workforce management.
 
 ---
-# 📌 TABLE OF CONTENTS
-
+###  TABLE OF CONTENTS
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
-- [Methods & Steps Performed](#methods--steps-performed)
 - [Dashboard](#dashboard)
 - [Business Insights & Key Findings](#business-insights--key-findings)
 - [Business Recommendations](#business-recommendations)
-- [How to Run This Project](#how-to-run-this-project)
 - [Result & Conclusion](#result--conclusion)
 - [Author & Contact](#author--contact)
 
 ---
-
-#  PROJECT OVERVIEW
-
+###  PROJECT OVERVIEW
 This project analyzes an HR employee dataset using Microsoft Power BI to convert workforce data into meaningful business insights.
- 
-Three interactive dashboards were created:
-
+ Three interactive dashboards were created:
 - **Executive Overview Dashboard**  
 - **Demographics & Reasons Analysis Dashboard**  
 - **Employee Details Dashboard**  
@@ -35,9 +27,7 @@ Three interactive dashboards were created:
 These dashboards help HR professionals monitor workforce health and take data-driven HR decisions.
 
 ---
-
-#  PROBLEM STATEMENT
-
+###  PROBLEM STATEMENT
 Organizations often struggle to understand:
 - Why employees are leaving  
 - Which departments face high attrition  
@@ -48,8 +38,7 @@ Organizations often struggle to understand:
 This project aims to solve these challenges by building structured Power BI dashboards to support strategic HR decision-making.
 
 ---
-#  DATASET
-
+###  DATASET
 **Dataset Used:** HR Employee Dataset  
 **Domain:** Human Resources / HR Analytics  
 **Data Type:** Workforce and Employee Records  
@@ -65,17 +54,13 @@ The dataset includes:
 The dataset was already clean and properly structured.
 
 ---
-#  TOOLS & TECHNOLOGIES
-
+###  TOOLS & TECHNOLOGIES
 - Microsoft Power BI Desktop  
 - DAX (Data Analysis Expressions)  
 - Interactive Visualizations  
 - Slicers and Filters  
 - Power BI Service  
-
----
-#  METHODS & STEPS PERFORMED
-
+####  METHODS & WORKFLOW -
 Project workflow:
 1. Imported HR dataset into Power BI  
 2. Verified dataset quality  
@@ -88,14 +73,11 @@ Project workflow:
 5. Added slicers for dynamic filtering  
 6. Implemented page navigation  
 7. Published dashboard to Power BI Service  
-
-No major data transformation was required.
+---
+##  DASHBOARD
 
 ---
-#  DASHBOARD
-
----
-##  EXECUTIVE OVERVIEW DASHBOARD
+###  EXECUTIVE OVERVIEW DASHBOARD
 ![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/e8a406c740ab71bdfd9ea5cb6a16ed178d5c7e69/images/Executive%20Overview.png)
 High-level HR performance view:
 - Total Employees: 311  
@@ -112,7 +94,7 @@ Key visuals include:
 This page helps leadership quickly assess organizational workforce health.
 
 ---
-## 🔍 DEMOGRAPHICS & REASONS ANALYSIS
+### DEMOGRAPHICS & REASONS ANALYSIS
 ![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/30c5f35516a48e70ec0e08fb7e03332b28e64e94/images/Demographics%20and%20Reasons%20Analysis.png)
 This dashboard analyzes:
 - Gender and marital status distribution  
@@ -123,7 +105,7 @@ This dashboard analyzes:
 It helps HR teams understand **who is leaving and why**.
 
 ---
-##  EMPLOYEE DETAILS DASHBOARD
+###  EMPLOYEE DETAILS DASHBOARD
 ![image alt](https://github.com/shailygupta-05/hr_workforce_attrition_analysis_dashboard_powerbi/blob/5e6acee8f93f11430e0352b1d065d88701a99317/images/Employee%20Details.png)
 Provides drill-down analysis with:
 - Employee-level information  
@@ -138,8 +120,7 @@ Provides drill-down analysis with:
 Acts as an analytical lookup page for deeper HR review.
 
 ---
-
-#  BUSINESS INSIGHTS & KEY FINDINGS
+###  BUSINESS INSIGHTS & KEY FINDINGS
 
 - Overall Attrition Rate: 33%  
 - Highest attrition observed in Production (40%) and Software Engineering (36%)  
@@ -149,7 +130,7 @@ Acts as an analytical lookup page for deeper HR review.
 -Overall, demographic factors do not strongly drive attrition; exits are more related to job satisfaction, growth opportunities, and workplace conditions
 
 ---
-#  BUSINESS RECOMMENDATIONS
+###  BUSINESS RECOMMENDATIONS
 
 - Implement retention plans in Production and Software Engineering  
 - Conduct department-level engagement surveys  
@@ -158,19 +139,8 @@ Acts as an analytical lookup page for deeper HR review.
 - Track long-term performance of new hires  
 - Improve work-life balance  
 - Address concerns related to work hours and workload  
-
-
-#  HOW TO RUN THIS PROJECT
-
-- Download the Power BI (.pbix) file  
-- Open it in Power BI Desktop  
-- Use slicers to interact with dashboards  
-- Navigate between pages using buttons  
-- Optionally view the published version on Power BI Service  
-
 ---
-
-#  RESULT & CONCLUSION
+###  RESULT & CONCLUSION
 
 This project successfully transformed HR data into structured dashboards that help to:
 
@@ -183,12 +153,10 @@ The dashboards provide actionable insights to help organizations reduce attritio
 
 ---
 
-#  AUTHOR & CONTACT
-
+###  AUTHOR & CONTACT
 Name: Shaily Gupta  
 Email: shailygupta2529@gmail.com  
 LinkedIn: https://www.linkedin.com/in/shailygupta05/
 
 ---
-
 ###  THANK YOU FOR VISITING THIS PROJECT!
